@@ -15,7 +15,14 @@
         lineas
         */
 
+        # laas variables simpre comienzan con $ 
+        # PHP no es fuertemente tipado, el tipo de dato se crea con la asignación
+        $nombre = "TESJI";
+        $mensaje = "Mi primera aplicación en PHP";
+
         echo "<h2>Hola Mundo desde PHP</2>";
+
+        echo "<h3> Bienvenido $nombre </h3> <h4>$mensaje</h4>";
     ?>
 </body>
 </html>
