@@ -15,5 +15,4 @@
     echo "Tu nombre es $nombre";
     ?>
 </body>
-
 </html>
